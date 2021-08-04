@@ -1,0 +1,14 @@
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+li.best {
+  color: plum;
+  font-style: oblique;
+}
+
+img{
+  height: 400px;
+  width: 300px;
+}
