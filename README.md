@@ -1,6 +1,6 @@
 # Cupcake Shop
 
-#### a simple HTML site with CSS styling
+#### A simple HTML site with CSS styling
 
 #### By Paige Tiedeman and Anna Clarke
 
